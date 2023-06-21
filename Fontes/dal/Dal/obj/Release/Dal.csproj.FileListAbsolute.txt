@@ -18,3 +18,22 @@ D:\BACKUP(ERIC)\Faculdade\PROJETO PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlSe
 D:\BACKUP(ERIC)\Faculdade\PROJETO PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.Smo.dll
 D:\BACKUP(ERIC)\Faculdade\PROJETO PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.SqlClrProvider.dll
 D:\BACKUP(ERIC)\Faculdade\PROJETO PAI\Fontes\dal\Dal\bin\Release\System.Data.SqlServerCe.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Dal.dll.config
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Dal.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Dal.pdb
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Dto.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.IntegrationServices.Common.ObjectModel.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.ManagedDTS.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.Management.IntegrationServices.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.Management.IntegrationServicesEnum.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.Smo.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\bin\Release\Dto.pdb
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\obj\Release\Dal.csproj.AssemblyReference.cache
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\obj\Release\Dal.csproj.CoreCompileInputs.cache
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\obj\Release\Dal.csproj.CopyComplete
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\obj\Release\Dal.dll
+E:\Eric\Documentos\Estudos\PROJETO-PAI\Fontes\dal\Dal\obj\Release\Dal.pdb
