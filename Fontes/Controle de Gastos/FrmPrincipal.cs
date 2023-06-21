@@ -15,11 +15,11 @@ namespace Controle_de_Gastos
         {
             // Alerta para prazo de validade 
             DateTime hoje = DateTime.Now;
-            DateTime obtida = DateTime.Parse("01/07/2022");
+            DateTime obtida = DateTime.Parse("01/07/2028");
             if (hoje >= obtida)
             {
                 Console.Beep();
-                MessageBox.Show("SUA LICENÇA TERMINOU HOJE: " + DateTime.Today.Date + " ENTRE EM CONTATO COM O DESENVOLVEDOR ", " CONTATE O SUPORTE ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("SUA LICENÇA TERMINOU " + obtida +": " + DateTime.Today.Date + " ENTRE EM CONTATO COM O DESENVOLVEDOR ", " CONTATE O SUPORTE ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
             }
             else

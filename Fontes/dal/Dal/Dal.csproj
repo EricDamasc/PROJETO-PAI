@@ -42,6 +42,7 @@
     </Reference>
     <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\..\Controle de Gastos\packages\SQLServer.SMO.2016.13.0.0.2\lib\net462\Microsoft.SqlServer.ManagedDTS.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.SqlServer.Management.IntegrationServices, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\..\Controle de Gastos\packages\SQLServer.SMO.2016.13.0.0.2\lib\net462\Microsoft.SqlServer.Management.IntegrationServices.dll</HintPath>

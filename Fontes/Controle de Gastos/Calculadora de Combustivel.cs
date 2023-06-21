@@ -19,7 +19,6 @@ namespace Controle_de_Gastos
         private void btn_CalcularCombustivel_Click(object sender, EventArgs e)
         {
             double alcool, gasolina, total = 0;
-            string resultado;
             try
             {
                 alcool = Convert.ToDouble(txt_Alcool.Text.Replace("R$", "").Trim().Replace(".", ",").Replace("_", "").Trim());
@@ -32,7 +31,7 @@ namespace Controle_de_Gastos
             }
             if (total == 0)
             {
-                resultado = "Não foi possivel calcular";
+                //Print("Não foi possivel calcular");
             }
             else
             {
